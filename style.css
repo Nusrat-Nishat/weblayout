@@ -1,0 +1,148 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+}
+
+header {
+	width: 100%;
+	float: left;
+    background-color: floralwhite
+}
+
+
+
+
+}
+
+.container {
+	
+}
+
+.logo {
+	width: 55%;
+	margin: 0 0px;
+	float: left;
+	
+}
+
+.logo img {
+    height: 120px;
+    width: 173px;
+    margin: 0px 13px;
+    
+ }
+
+ .header-menu{
+ 	
+
+ }
+ 
+ nav{
+
+ }
+
+ nav ul{
+ 	 list-style: none;
+    margin: 6px;
+    font-size: 25px;
+    height: 101px;
+    background-color: floralwhite;
+
+
+ }
+
+ nav ul li{
+ 	 display: inline-block;
+    margin: 32px 23px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #ff9800;
+    font-size: 25px;
+    transition: 0.7s ease;
+ }
+ .display{
+
+ }
+
+.display img{
+ 	height: 676px;
+   margin: 0px;
+
+  
+}
+
+footer{
+width: 100%;
+    padding: 0px 115px;
+   float: left;
+    background-color: floralwhite
+}
+
+.footer-content{
+   
+
+}
+
+.OUTLETS{
+   margin: 0 0px;
+   float: left;
+   margin: 6px;
+    font-size: 25px;
+    height: 101px;
+    text-decoration: none;
+    color: #ff9800;
+    font-size: 25px;
+    transition: 0.7s ease;
+    color: coral;
+
+}
+
+section-three{
+
+}
+.contact-display{
+   height: 676px;
+   margin: 0px;
+   width: 100%;
+
+}
+.contact-part{
+   height: 676px;
+   margin: 0px;
+   width: 100%;
+   column-rule-color: whitesmoke;
+   text-align: center;
+   background-color: seashell;
+   text-align: center;
+   font-size: large;
+
+}
+
+.fa.fa-facebook-square{
+   color: #46659E;
+   padding: 25px 27px;
+}
+
+.fa.fa-google{
+   color: #E24D42;
+   padding: 25px 27px;
+
+}
+
+.fa.fa-twitter{
+   color: #17A2F2;
+   padding: 25px 27px
+
+}
+.fa.fa-youtube-play{
+   color: #E62E04
+   padding: 25px 27px
+
+}
